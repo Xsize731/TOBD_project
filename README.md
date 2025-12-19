@@ -1,5 +1,14 @@
-# TOBD_project
-Ввести в терминал команду: git clone https://github.com/Xsize731/TOBD_project.git <br>
+## 🚀 Быстрый старт
 
-Ввести команду :docker compose up  <br>
-Ввести команду :docker compose up -d <br>
+Следуйте этим шагам, чтобы запустить проект локально.
+
+### 1. 📥 Клонируйте репозиторий
+
+```bash
+git clone https://github.com/Xsize731/TOBD_project.git
+cd TOBD_project
+
+
+docker compose up -d
+
+
